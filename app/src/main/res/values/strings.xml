@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="action_clean">Clean Directory</string>
+    <string name="Photo">Photo</string>
+    <string name="cached_photo">cached_photo_</string>
+    <string name="Error">Error</string>
+</resources>
